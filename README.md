@@ -18,16 +18,19 @@ As a result, I've chosen Computer Engineering (or the closest thing to it) for e
 
 ### Mini-Projects
 Throughout high school I've been making tiny solutions to mild inconveniences. I suspect I'll continue this throughout my whole life. In the meantime, I've documented every single one of these in a GitHub Repo. If you want a sneak peek of my general engineering process, click through a few projects in the [repository](https://github.com/Giantryan484/Mini-Projects).
+
 <img src="./projects.png" width="30%"> 
 
 ### tabgenerator.app
 I've always loved music, and I've always been the guy my musician friends come to when they need something designed (or when they need help on their physics homework). I designed this tool for several of my beginner-guitarist friends, and it lets them upload audio of a guitar solo and have playable sheet music available to them in just a few button-clicks. The code and repo is available [here](https://github.com/Giantryan484/Guitar-TAB-Generator), and the website is live at [https://tabgenerator.app/](https://tabgenerator.app/) (but may be at varying-levels of functionality depending on when you visit it).
+
 <img src="./tabs.png" width="30%"> 
 
 ### A Self-Balancing Robot
 Definitely my most ambitious project, I decided to build an AI-powered self-balancing robot to explore electronics, structural design, physics simulation, reinforcement learning, and robotics systems. I'm doing it alongside a fantastic programmer-buddy of mine, Asher Levin, so it's been a great way for me to practice collaborative learning and project management as well. This project is a work-in-progress currently, but I expect I'll have it in a semi-functional state by the end of November. Currently (as of 10/16/24), I'm waiting on gearmotors and threaded inserts from AliExpress. Scarce source code and pictures of the robot can be seen [here](https://github.com/Giantryan484/Balancing-Robot), but expect the repo to slowly have more and more content as the semester progresses.
 
 *Additionally, and I know this is a bit of a gimmick (but a fun one), this robot is run on a Raspberry Pi that receives movement instructions through a web server it hosts. So, in theory, and if you're at all interested, I could have you drive the robot remotely around my school with a live visual feed of what it sees sometime in December/January. If you want this to be a reality, contact me at [ryan.m.mccormick2@gmail.com](mailto:ryan.m.mccormick2@gmail.com) and we can discuss it.*
+
 <img src="./robot.png" width="30%"> 
 
 ## The future
@@ -37,16 +40,19 @@ If you look at the second semester of my senior year, you might notice a strange
 ### Volumetric Display 3D Grapher
 
 My amazing calculus teacher, Mrs. Allison, always jokes about how bad she is at drawing 3D graphs. So, I figured she could use an extra tool in the classroom. I'm going to make a device that can parse any 3D graph's equation (cartesian or polar) and display it in a tangible, volumetric display. This will be powered by a Raspberry Pi and the volumetric display will probably need to be a custom PCB.
+
 <img src="./grapher.png" width="30%"> 
 
 ### Mini Self-Balancing Robot
 
 For my wonderful partner, Asher, I'm going to make him a miniature version of the robot we built together. For the big robot, I paid for every single thing with money from my job at DupperAnalytics, so we agreed I should get to keep it. Still, a tiny robot would still give him something fun to play with and remember. This will run on an Arduino Nano and a 2s LiPo battery, I'm going to replace the facial display with 2 RGB lights, and I'm going to make it controlled with an IR receiver/transmitter (which will be a fun way to learn some basic signal processing).
+
 <img src="./tiny-robot.png" width="30%"> 
 
 ### Musical Plaques
 
 This past year saw the biggest revolution in my school's music program since its beginnings, partially thanks to me. But most of the credit goes to our two amazing new Band and Orchestra directors, Mr. Green and Mr. Brax. To welcome them into the program and thank them for dealing with my excessive motivation throughout the schoolyear, I want to make them some special, well-made plaques that celebrate their contributions to the program.
+
 <img src="./plaques.png" width="30%"> 
 
 ### Misc.
