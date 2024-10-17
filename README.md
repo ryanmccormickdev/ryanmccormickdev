@@ -81,7 +81,7 @@ If you look at the second semester of my senior year, you might notice a strange
 </details>
 
 <details>
-  <summary>Misc</summary>
+  <summary>Misc.</summary>
   <br/>
   I've still got a few more people I want to build things for, but I haven't come up with solid ideas yet. Mr. Allison (yes, Mrs. Allison's husband) has also been really important to me because he's been cheering on my passion for mechanical design since middle school. Additionally, Dylan Willberg is a great musician friend of mine who also loves 3D CAD, and I want to make him something music/engineering related (I'm thinking perhaps a cello sculpture made out of misc. nuts/bolts with an integrated music box, to explore the artistic side of engineering).
   <br/><br/>
