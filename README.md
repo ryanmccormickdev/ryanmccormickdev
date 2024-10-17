@@ -11,7 +11,7 @@ I'm a high school student who is determined to explore all things STEM.
 </details>
 
 <details>
-  <summary>My Engineering Now</summary>
+  <summary>My Engineering Present</summary>
   <br/>
   This past summer, I realized that I need to pick a major. The problem is, I had such wide-ranging experience. I've loved 3D CAD and mechanical design since middle school, but now I've got industry experience and connections in software, web, and artificial intelligence development. Also, I self-studied AP Physics C: Electricity and Magnetism throughout my Junior year and now I have a sudden fascination for everything electronics. As a result, I've chosen Computer Engineering (or the closest thing to it) for each college I'm applying to, but there's a high chance I'll expand far beyond that field in my time as a college student. My current goal is to explore everything engineering-related through side-projects of mine, hopefully giving me a taste of what industry is like in each.
 </details>
