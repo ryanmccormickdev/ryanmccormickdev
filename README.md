@@ -1,6 +1,6 @@
 # Hi there, I'm Ryan!
 
-## About me
+## About Me
 
 I'm a high school student who is determined to explore all things STEM.
 
@@ -52,7 +52,7 @@ I'm exploring engineering beyond the classroom through side projects, including 
   <img src="./robot.png" width="30%"> 
 </details>
 
-## The future
+## The Future
 
 If you look at the second semester of my senior year, you might notice a strange class: "CTE Engineering/Tech Work-Based Learning". Simply put, I'm going to use this class to build tiny gifts for the teachers and friends that meant the most to me throughout high school. Here's a sneak peek of the projects I've planned out so far:
 
