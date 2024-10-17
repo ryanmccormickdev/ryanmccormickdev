@@ -35,7 +35,7 @@ I'm exploring engineering beyond the classroom through side projects, including 
 </details>
 
 <details>
-  <summary>tabgenerator.app</summary>
+  <summary>Tabgenerator.app</summary>
   <br/>
   I've always loved music, and I've always been the guy my musician friends come to when they need something designed (or when they need help on their physics homework). I designed this tool for several of my beginner-guitarist friends, and it lets them upload audio of a guitar solo and have playable sheet music available to them in just a few button-clicks. The code and repo is available <a href="https://github.com/Giantryan484/Guitar-TAB-Generator">here</a>, and the website is live at <a href="https://tabgenerator.app/">https://tabgenerator.app/</a> (but may be at varying levels of functionality depending on when you visit it).
   <br/><br/>
