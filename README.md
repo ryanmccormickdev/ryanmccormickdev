@@ -22,7 +22,7 @@ I'm a high school student who is determined to explore all things STEM.
   I've already got moderate technical experience from my projects up until now. That means my time in college and beyond can be put towards improving my leadership and entrepreneurial abilities. I think I've got a head start on other people; I've already got a portfolio that could land me a high-paying job (it already has), so now I can focus on creating impactful inventions to help those around me. Given my high school record, you can be sure that I'll bring some amazing motivation and innovation to your college, on top of some radical bass playing. So, consider giving me a spot in your class of 2025 (and maybe a penny or two because my parents are paying for my two older brothers' college).
 </details>
 
-## Current Projects:
+## Current Projects
 
 I'm exploring engineering beyond the classroom through side projects, including a AI web-app and a AI robotics-system.
 
