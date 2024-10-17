@@ -24,7 +24,7 @@ I'm a high school student who is determined to explore all things STEM.
 
 ## Current Projects
 
-I'm exploring engineering beyond the classroom through side projects, including a AI web-app and a AI robotics-system.
+I'm exploring engineering beyond the classroom through side projects, including an AI web-app and an AI robotics-system.
 
 <details>
   <summary>Mini-Projects</summary>
