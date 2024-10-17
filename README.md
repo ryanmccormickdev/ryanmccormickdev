@@ -29,7 +29,7 @@ I'm exploring engineering beyond the classroom through side projects, including 
 <details>
   <summary>Mini-Projects</summary>
   <br/>
-  Throughout high school I've been making tiny solutions to mild inconveniences. I suspect I'll continue this throughout my whole life. In the meantime, I've documented every single one of these in a GitHub Repo. If you want a sneak peek of my general engineering process, click through a few projects in the [repository](https://github.com/Giantryan484/Mini-Projects).
+  Throughout high school I've been making tiny solutions to mild inconveniences. I suspect I'll continue this throughout my whole life. In the meantime, I've documented every single one of these in a GitHub Repo. If you want a sneak peek of my general engineering process, click through a few projects in the <a href="https://github.com/Giantryan484/Mini-Projects">repository</a>.
   <br/><br/>
   <img src="./projects.png" width="30%"> 
 </details>
@@ -37,7 +37,7 @@ I'm exploring engineering beyond the classroom through side projects, including 
 <details>
   <summary>tabgenerator.app</summary>
   <br/>
-  I've always loved music, and I've always been the guy my musician friends come to when they need something designed (or when they need help on their physics homework). I designed this tool for several of my beginner-guitarist friends, and it lets them upload audio of a guitar solo and have playable sheet music available to them in just a few button-clicks. The code and repo is available [here](https://github.com/Giantryan484/Guitar-TAB-Generator), and the website is live at [https://tabgenerator.app/](https://tabgenerator.app/) (but may be at varying levels of functionality depending on when you visit it).
+  I've always loved music, and I've always been the guy my musician friends come to when they need something designed (or when they need help on their physics homework). I designed this tool for several of my beginner-guitarist friends, and it lets them upload audio of a guitar solo and have playable sheet music available to them in just a few button-clicks. The code and repo is available <a href="https://github.com/Giantryan484/Guitar-TAB-Generator">here</a>, and the website is live at <a href="https://tabgenerator.app/">https://tabgenerator.app/</a> (but may be at varying levels of functionality depending on when you visit it).
   <br/><br/>
   <img src="./tabs.png" width="30%"> 
 </details>
@@ -45,9 +45,9 @@ I'm exploring engineering beyond the classroom through side projects, including 
 <details>
   <summary>A Self-Balancing Robot</summary>
   <br/>
-  Definitely my most ambitious project, I decided to build an AI-powered self-balancing robot to explore electronics, structural design, physics simulation, reinforcement learning, and robotics systems. I'm doing it alongside a fantastic programmer-buddy of mine, Asher Levin, so it's been a great way for me to practice collaborative learning and project management as well. This project is currently a work-in-progress, but I expect I'll have it in a semi-functional state by the end of November. Currently (as of 10/16/24), I'm waiting on gearmotors and threaded inserts from AliExpress. Scarce source code and pictures of the robot can be seen [here](https://github.com/Giantryan484/Balancing-Robot), but expect the repo to slowly have more and more content as the semester progresses.
+  Definitely my most ambitious project, I decided to build an AI-powered self-balancing robot to explore electronics, structural design, physics simulation, reinforcement learning, and robotics systems. I'm doing it alongside a fantastic programmer-buddy of mine, Asher Levin, so it's been a great way for me to practice collaborative learning and project management as well. This project is currently a work-in-progress, but I expect I'll have it in a semi-functional state by the end of November. Currently (as of 10/16/24), I'm waiting on gearmotors and threaded inserts from AliExpress. Scarce source code and pictures of the robot can be seen <a href="https://github.com/Giantryan484/Balancing-Robot">here</a>, but expect the repo to slowly have more and more content as the semester progresses.
   <br/><br/>
-  <em>Additionally, and I know this is a bit of a gimmick (but a fun one), this robot is run on a Raspberry Pi that receives movement instructions through a web server it hosts. So, in theory, and if you're at all interested, I could have you drive the robot remotely around my school with a live visual feed of what it sees sometime in December/January. If you want this to be a reality, contact me at [ryan.m.mccormick2@gmail.com](mailto:ryan.m.mccormick2@gmail.com) and we can discuss it.</em>
+  <em>Additionally, and I know this is a bit of a gimmick (but a fun one), this robot is run on a Raspberry Pi that receives movement instructions through a web server it hosts. So, in theory, and if you're at all interested, I could have you drive the robot remotely around my school with a live visual feed of what it sees sometime in December/January. If you want this to be a reality, contact me at <a href="mailto:ryan.m.mccormick2@gmail.com">ryan.m.mccormick2@gmail.com</a> and we can discuss it.</em>
   <br/><br/>
   <img src="./robot.png" width="30%"> 
 </details>
