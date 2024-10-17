@@ -5,7 +5,7 @@
 I'm a high school student who is determined to explore all things STEM.
 
 <details>
-  <summary>My Engineering Background</summary>
+  <summary>My Engineering Past</summary>
   <br/>
   I started programming in the second semester of 9th grade. Quickly, I started working on silly side projects and quality-of-life automations, and suddenly I was a pretty sufficient programmer. Just a year after I wrote my first line of Python, I got a job at DupperAnalytics, a then-local business (now it spreads across the country). Working there, I progressed from basic technical staff to their head of AI Integrations, where now I design and build applications with LLMs and Computer Vision integrations for small businesses in need. It was a fantastic way for me to develop as a programmer, coworker, and leader. Currently I'm transitioning to a job at Bedrock Research, an ML-startup with a few PhD physicists from Lockheed Martin. In Spring of 2025 I'll be working in great depth with them to develop brand-new AI models to analyze satellite data, revolutionizing the tech available to small businesses and local governments, and perhaps even saving lives from wildfires. 
 </details>
