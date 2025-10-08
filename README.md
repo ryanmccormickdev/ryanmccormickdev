@@ -3,7 +3,7 @@
 **Machine Learning Engineer @ Bedrock Research** • **CS @ Stanford**  
 I build geospatial ML systems: foundation-model embeddings, unsupervised clustering, anomaly/rare-object detection, and tooling for production-ready applications.
 
-[GitHub](https://github.com/ryanmccormickdev) · [Email](mailto:) · [LinkedIn](https://www.linkedin.com/in/ryanmdev/)
+[GitHub](https://github.com/ryanmccormickdev) · [Email](mailto:hi@ryanmccormick.dev) · [LinkedIn](https://www.linkedin.com/in/ryanmdev/)
 
 ---
 
@@ -36,8 +36,10 @@ I build geospatial ML systems: foundation-model embeddings, unsupervised cluster
 - **TabGenerator.app** — audio → playable guitar tabs  
   Repo: https://github.com/Giantryan484/Guitar-TAB-Generator · Live: https://tabgenerator.app/
 - **Mini-Projects** — small tools and experiments (lots of tiny wins)  
-  Repo: https://github.com/Giantryan484/Mini-Projects
-- **Frisbee Drone (Big WIP)** - Not ready to be shown off quite yet, but I'm intermittently working on a CV system for tracking thrown frisbees and retrieving them with a drone.
+  Repo: https://github.com/Giantryan484/Mini-Projects 
+- **Frisbee Drone (Big WIP)** - Not ready to be shown off quite yet, but I'm intermittently working on a CV system for tracking thrown frisbees and retrieving them with a drone.   
+  Repo: None, yet
+- **Personal Website - ryanmccormick.dev (Soon to be published)** - I'm going a bit over-the-top with my website design to practice my frontend skills. So, there's a lot of assets I need to make beyond my traditional programming tasks. It could be a while before I get this looking good.   
   Repo: None, yet
 
 > Many of these are from my time in high school and have been abandoned in states of ~60% functionality because I had such an experimentation-oriented brain at the time. Please give me a chance to prove my coding abilities beyond this mess.
@@ -51,7 +53,7 @@ Full-stack when needed: JS/HTML/CSS, React/SvelteKit, SQL · Git, Bitbucket, CI/
 
 **Certs**: TensorFlow Professional Developer · SolidWorks Expert (top <1%)
 
-> I'm also very familiar with C++ and Java through the courses I've taken here at Stanford. I just haven't found use for them in any of my ML projects yet.
+> I'm also very familiar with C++ and Java through the courses I've taken here at Stanford. I just haven't found use for them in any of the projects I've worked on yet.
 
 ---
 
@@ -66,6 +68,8 @@ Full-stack when needed: JS/HTML/CSS, React/SvelteKit, SQL · Git, Bitbucket, CI/
 
 ## A Note About My Future
 
-Right now I'm focusing on my studies at Stanford. Don't expect regular updates to all of this; I'm only able to work in between problem sets and over summer break. My coursework is quite comprehensive, covering everything from standard DSA to more detailed courses in fully-autonomous robotics and safe + reliable AI systems. I'm very early in my career and I'm prioritizing a strong base and foundation in AI research before I dive into industry head-on. So, even though I might not have as flashy products as others at Stanford, you can be sure I'm one of the hardest workers and quite a breeze to solve the world's toughest problems beside. If Stanford let me in for that merit, you can be certain your company would love it just as much.
+Right now I'm focusing on my studies at Stanford. Don't expect regular updates to any of these projects or documentation; I'm only able to work in between problem sets and over breaks. My coursework is quite comprehensive, covering everything from standard DSA to more detailed courses in fully-autonomous robotics and safe + reliable AI systems. I'm very early in my career and I'm prioritizing a strong base and foundation in AI research before I dive into industry head-on. So, even though I might not have as flashy products as others, you can be sure I'm one of the hardest workers and quite a breeze to solve the world's toughest problems beside. If Stanford let me in for that merit, you can be certain your company will love it just as much.
 
-If you think I'd be a good fit for one of your projects, tell me now! There's a risk I could be bought out of school some time in the not-so-far future. Hope we can get in touch!
+> If you think I'd be a good fit for one of your projects, tell me now! As a freshman I'm flying under the radar of most companies. At the risk of being egotistical, you should get in touch with me before I'm a senior engineer you'll have to pay 10x as much.
+
+Contact me at [hi@ryanmccormick.dev](mailto:hi@ryanmccormick.dev)
